@@ -12,6 +12,7 @@
   <img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30">
   <img alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30">
   <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30">
+  <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30">
   <img alt="Spring Boot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="30" height="30">
   <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30">
 </div>
@@ -21,15 +22,17 @@
     <img alt="MySql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30">
     <img alt="Oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="30" height="30">
   </div>
-  
+
+
 ### ⚙️ &nbsp;Git
   <div align="left">
     <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" widht="30" height="30">
     <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" widht="30" height="30">
     <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" widht="30" height="30">
   </div>
+
   
-🔧 &nbsp;My used IDE's
+### 🔧 &nbsp;My used IDE's
    <div align="left">
     <img alt="VsCode" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30" height="30">
   </div>
