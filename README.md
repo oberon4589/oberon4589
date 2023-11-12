@@ -39,10 +39,9 @@
 
 ## My Stats
 
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=oberon4589&show_icons=true&theme=onedark" alt="Oberon GitHub stats" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oberon4589&layout=compact" alt="Top Langs" height="200">
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=oberon4589&show_icons=true&theme=onedark" alt="Oberon GitHub stats" width="400"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oberon4589&layout=compact" alt="Top Langs" width="400">
+
 
 
 ##  🤝🏻 &nbsp;Connect with Me
