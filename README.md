@@ -38,8 +38,8 @@
   </div>
 
 ## My Stats
-![Oberon GitHub stats](https://github-readme-stats.vercel.app/api?username=oberon4589&sho_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oberon4589&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=oberon4589&show_icons=true&theme=onedark" alt="Oberon GitHub stats" height="200"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oberon4589&layout=compact" alt="Top Langs" height="200">
+
 
 ##  🤝🏻 &nbsp;Connect with Me
 
