@@ -22,15 +22,6 @@
     <img alt="MySql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30">
     <img alt="Oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="30" height="30">
   </div>
-
-
-### ⚙️ &nbsp;Git
-  <div align="left">
-    <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" widht="30" height="30">
-    <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" widht="30" height="30">
-    <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" widht="30" height="30">
-  </div>
-
   
 ### 🔧 &nbsp;My used IDE's
    <div align="left">
