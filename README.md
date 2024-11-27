@@ -15,7 +15,7 @@
   <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30">
   <img alt="Spring Boot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="30" height="30">
   <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30">
-</div>
+  <img alt="Node Js" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="30" height="30">
 
 ### 🛢 &nbsp;Database
  <div align="left">
